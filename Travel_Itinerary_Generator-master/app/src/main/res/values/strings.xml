@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tour Itinerary Maker</string>
+    <string name="select_destination_prompt">Select Destination</string>
+    <string name="num_days_label">Number of Days:</string>
+    <string name="num_days_hint">Enter number of days</string>
+    <string name="budget_label">Budget (USD):</string>
+    <string name="budget_hint">Enter budget</string>
+    <string name="generate_itinerary_button">Generate Itinerary</string>
+    <string-array name="city_names">
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Houston</item>
+        <item>Phoenix</item>
+        <!-- add more city names here -->
+    </string-array>
+
+</resources>
